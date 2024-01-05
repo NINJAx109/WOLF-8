@@ -1,4 +1,4 @@
 local function SendNotify(title, message, duration)
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = title,Text = message,Duration = duration;})
 end
-SendNotify("Script","چافەرێ ئابدێتی بن و تیک توکێ من فولو کن r4y0hx ل ئابدێتا بهێت تودێ شێی priviaty خەلکی بینی ")
+SendNotify("Script","چافەرێ ئابدێتا نی بن تیک توکێ من ژی فولو کن r4y0hx")
